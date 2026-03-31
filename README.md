@@ -100,11 +100,6 @@ Hello! I'm **Mohamed Thameem**, an AI/ML Engineering student. I enjoy exploring 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mamdthameem&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
-<br/><br/>
-
-<!-- CONTRIBUTION GRAPH -->
-[![Thameem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mamdthameem&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ---
