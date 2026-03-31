@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Thameem%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Undergrad%20%7C%20Builder%20%7C%20Explorer&descAlignY=58&descSize=18" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e1a,40:0d1b3e,80:112266,100:1a1f4e&height=220&section=header&text=Mohamed%20Thameem&fontSize=48&fontColor=e0e7ff&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making&descAlignY=65&descSize=20&descColor=7c8cff&animation=fadeIn" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+<!-- ROLE BADGES -->
+![](https://img.shields.io/badge/🎓%20AIML%20Undergrad-0d1b3e?style=for-the-badge&color=1e3a8a)
+![](https://img.shields.io/badge/🔬%20Researcher-0d1b3e?style=for-the-badge&color=1e3a8a)
+![](https://img.shields.io/badge/🚀%20Builder-0d1b3e?style=for-the-badge&color=1e3a8a)
+![](https://img.shields.io/badge/🧩%20Hackathon%20Organizer-0d1b3e?style=for-the-badge&color=1e3a8a)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+code+%F0%9F%94%8D;Deep+Learning+%7C+AI+Pipelines+%7C+Real-world+AI;Always+exploring+what%27s+next+in+AI+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br/><br/>
+
+<!-- TYPING ANIMATION HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=7C8CFF&center=true&vCenter=true&width=650&lines=Exploring+the+frontiers+of+AI+%F0%9F%94%8D;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+real-world+AI+pipelines+%E2%9A%99%EF%B8%8F;Always+chasing+what%27s+next+in+tech+%F0%9F%9A%80;Turning+curiosity+into+working+systems+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,16 +22,11 @@
 
 ## 🧠 About Me
 
-```python
-thameem = {
-    "degree"    : "B.E. Artificial Intelligence & Machine Learning",
-    "college"   : "Sree Sakthi Engineering College, Anna University",
-    "status"    : "Pre-final year | Research & Building",
-    "focus"     : ["Deep Learning", "AI Pipelines", "Computer Vision", "NLP"],
-    "currently" : "Exploring MCP Servers & AI workflow automation",
-    "fun_fact"  : "I co-organized a hackathon with 170+ participants 🎉"
-}
-```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=A5B4FC&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=210&lines=👨‍💻+Pre-final+year+AI+%2F+ML+student+%40+Sree+Sakthi+Engineering+College;🎓+Affiliated+with+Anna+University;🔭+Currently+exploring+MCP+Servers+%26+AI+workflow+automation;🧪+Researching+Deep+Learning+for+Medical+Imaging;🎪+Co-organized+HACKATHON'26+with+170%2B+participants;💡+Passionate+about+real-world+deployed+AI+systems;📬+mdthameemaslam%40gmail.com)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -88,7 +91,7 @@ thameem = {
 <td width="50%" valign="top">
 
 ### 🔐 Gate In–Gate Out Automation
-Real-time facial recognition system for automated attendance & secure gate monitoring. Integrated IVR alerts, SMS notifications & a Play Store app with multi-level hostel outing approvals.
+Real-time facial recognition for automated attendance & secure gate monitoring. Integrated IVR alerts, SMS notifications & a Play Store app with multi-level hostel outing approvals.
 
 `Computer Vision` `Face Recognition` `Mobile App` `IVR`
 
@@ -96,7 +99,7 @@ Real-time facial recognition system for automated attendance & secure gate monit
 <td width="50%" valign="top">
 
 ### ✈️ Airline Delay Prediction
-Supervised ML models (Random Forest, XGBoost) on real-world flight data achieving **82% accuracy**. Full evaluation pipeline with precision, recall & F1-score metrics.
+Supervised ML models (Random Forest, XGBoost) on real-world flight data achieving **82% accuracy**. Full evaluation with precision, recall & F1-score.
 
 `Machine Learning` `XGBoost` `Random Forest` `Data Analysis`
 
@@ -106,7 +109,7 @@ Supervised ML models (Random Forest, XGBoost) on real-world flight data achievin
 <td width="50%" valign="top">
 
 ### 🖊️ ClariGuard
-AI-powered academic writing assistant that transforms raw drafts into structured, analytically rich content using NLP and prompt engineering for humanized academic expression.
+AI-powered academic writing assistant transforming raw drafts into structured, analytically rich content using NLP and prompt engineering.
 
 `NLP` `Prompt Engineering` `LLM` `Academic AI`
 
@@ -114,7 +117,7 @@ AI-powered academic writing assistant that transforms raw drafts into structured
 <td width="50%" valign="top">
 
 ### ⚙️ Shot Sense – Industry Project
-Real-time monitoring dashboard for a shot blasting machine — streams live PLC data to visualize operational parameters and production metrics continuously.
+Real-time monitoring dashboard for a shot blasting machine — streams live PLC data to visualize operational parameters continuously.
 
 `PLC Integration` `Real-time Dashboard` `Industrial IoT`
 
@@ -124,15 +127,15 @@ Real-time monitoring dashboard for a shot blasting machine — streams live PLC 
 <td width="50%" valign="top">
 
 ### 🎪 Smart Event Management System
-Full-scale AI-integrated platform handling registrations, scheduling & real-time coordination. Includes an AI poster generation module that creates event posters dynamically from instructions.
+Full-scale AI-integrated platform for registrations, scheduling & real-time coordination with an AI poster generation module.
 
 `AI Generation` `Event Tech` `Full Stack` `Automation`
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 Deep Learning Review – Diabetic Retinopathy
-Ongoing research review paper on deep learning-based diabetic retinopathy detection, targeting a Springer conference publication.
+### 📝 Diabetic Retinopathy – Research
+Ongoing review paper on deep learning-based diabetic retinopathy detection targeting a Springer conference publication.
 
 `Deep Learning` `Medical AI` `Research` `Computer Vision`
 
@@ -146,12 +149,13 @@ Ongoing research review paper on deep learning-based diabetic retinopathy detect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mamdthameem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamdthameem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mamdthameem&show_icons=true&theme=dark&hide_border=true&bg_color=0a0e1a&title_color=7c8cff&icon_color=7c8cff&text_color=c9d1d9" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamdthameem&layout=compact&theme=dark&hide_border=true&bg_color=0a0e1a&title_color=7c8cff&text_color=c9d1d9" height="165"/>
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mamdthameem&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mamdthameem&theme=dark&hide_border=true&background=0a0e1a&ring=7c8cff&fire=7c8cff&currStreakLabel=7c8cff&sideLabels=c9d1d9&dates=6b7280)](https://git.io/streak-stats)
 
 </div>
 
@@ -163,7 +167,11 @@ Ongoing research review paper on deep learning-based diabetic retinopathy detect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-thameem07)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdthameemaslam@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mamdthameem)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0e1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mamdthameem)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mamdthameem&color=7c8cff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -171,8 +179,6 @@ Ongoing research review paper on deep learning-based diabetic retinopathy detect
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-<sub>⚡ Profile views counter — <img src="https://komarev.com/ghpvc/?username=mamdthameem&color=a78bfa&style=flat-square&label=views"/></sub>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:1a1f4e,40:112266,80:0d1b3e,100:0a0e1a&height=140&section=footer&text=Let's+build+something+intelligent+together&fontSize=18&fontColor=a5b4fc&fontAlignY=50" width="100%"/>
 
 </div>
